@@ -8,7 +8,7 @@ int n;
 int l;
 
 srand(time(0));
-n = rand() - RAND_MAX /2;
+n = rand() - RAND_MAX / 2;
 l = n % 10;
 
 if (1 > 5)
